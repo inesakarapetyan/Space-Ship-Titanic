@@ -56,7 +56,7 @@ File and Data Field Descriptions:
   - py -m pip install --upgrade pip
   - pip install jupyter numpy pandas seaborn matplotlib scikit-learn tensorflow
   - jupyter-notebook (to open Jupyter)
-  - 
+    
 
   
 2.python3 -m venv venv (if you are using Mac or Linux)
